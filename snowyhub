@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('putlinkhere'))()
+loadstring(game:HttpGet('https://api.luaauth.com/loader/0yUl33ohtyjy8pIcOy5WIaP6XRtiIaM5'))()
